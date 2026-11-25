@@ -1,3 +1,0 @@
-E:\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\ADScaleSystem.dir/objects.a
-E:\QT\Tools\mingw1510_64\bin\ar.exe qc CMakeFiles\ADScaleSystem.dir/objects.a @CMakeFiles\ADScaleSystem.dir\objects1.rsp
-E:\QT\Tools\mingw1510_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\ADScaleSystem.dir/objects.a -Wl,--no-whole-archive -o ADScaleSystem.exe -Wl,--out-implib,libADScaleSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ADScaleSystem.dir\linkLibs.rsp
